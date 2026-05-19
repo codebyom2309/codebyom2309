@@ -237,24 +237,6 @@ Alongside my core electronics and telecommunication curriculum, I am actively st
 
 </div>
 
----
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codebyom2309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyom2309&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=codebyom2309&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebyom2309&theme=tokyonight" alt="Profile Summary" width="100%" />
-
-</div>
 
 ## 🧭 My Engineering Philosophy
 
