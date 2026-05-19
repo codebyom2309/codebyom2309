@@ -238,7 +238,6 @@ Alongside my core electronics and telecommunication curriculum, I am actively st
 </div>
 
 ---
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -254,8 +253,6 @@ Alongside my core electronics and telecommunication curriculum, I am actively st
 <img src="https://streak-stats.demolab.com?user=codebyom2309&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
----
 
 ## 🧭 My Engineering Philosophy
 
